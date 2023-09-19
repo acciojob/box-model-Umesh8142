@@ -8,6 +8,7 @@
     justify-content: space-around;
     align-items: center;
     text-align: center;
+	padding:20px;
 }
 .red{
     width: 50px;
